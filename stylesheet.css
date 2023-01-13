@@ -1,0 +1,27 @@
+.header{
+    font-size: 30px;
+    background-color: aliceblue;
+}
+.header-logo{
+    padding: 10px;
+}
+
+.contents{
+    background-color: aliceblue;
+}
+.copy-container{
+    text-align: center;
+}
+
+.profile h2{
+    border-bottom: 2px solid black;
+    margin-top: 10px;
+}
+li{
+    list-style: none;  
+}
+
+.word h2{
+    margin-top: 10px;
+    border-bottom: 2px solid black;
+}
